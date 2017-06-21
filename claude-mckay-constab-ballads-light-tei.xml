@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ConstabBallads-DigitalEdition">
+  <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title>Constab Ballads</title>
+              <author>Claude McKay</author>
+              <respStmt>
+                <resp>Encoded by</resp>
+                <name xml:id="AS">Amardeep Singh</name>
+                </respStmt>
+           </titleStmt>
+           <publicationStmt>
+              <pubPlace>London, England</pubPlace>
+              <publisher>Watts and Co.</publisher>
+              <address>17 Johnson's Court, Fleet Street, E.C.</address>
+
+           </publicationStmt>
+           <encodingDesc>
+             <p>Just a light TEI version of "Constab Ballads," with not much by way of technical verse tags or McKay's footnotes at present.</p>
+           </encodingDesc>
+
+           <sourceDesc>
+              <p>Derived from an Archive.org PDF version of the text.</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+<text xml:id="Constab-Ballads-Digital-Edition">
+
+<div type="frontmatter">
+
+</div>
+
+<div type="contents">
+<head>Contents</head>
+<list>
+
+<item>Author's Preface ("Constab Ballads")</item>
+<item>De Route March</item>
+<item>Flat-Foot Drill</item>
+<item>Bennie's Departure</item>
+<item>Consolation</item>
+<item>Fire Practice</item>
+<item>Second-Class Constable Alston</item>
+<item>Last Words of the Dying Recruit</item>
+<item>Bound Fe Duty</item>
+<item>Bumming</item>
+<item>De Dog-Driver's Frien'</item>
+<item>To Inspector W.E. Clark (On his Return)</item>
+<item>Papine Corner</item>
+<item>Disillusioned</item>
+<item>Cotch Donkey</item>
+<item>Me Whoppin' Big-Tree Boy</item>
+<item>A Recruit on the Corpy</item>
+<item>Pay-Day</item>
+<item>The Apple-Woman's Complaint</item>
+<item>Knutsford Park Races</item>
+<item>The Heart of a Constab</item>
+<item>Fe Me Sal</item>
+<item>The Bobby to the Sneering Lady</item>
+<item>The Malingerer</item>
+<item>A Labourer's Life Give Me</item>
+<item>Free</item>
+<item>Comrades Four</item>
+<item>To W.G.G.</item>
+<item>Sukee River (1912 version)</item>
+<item>Glossary to "Constab Ballads"</item>
+</list>
+</div>
+
+<div type="introductory-prose" xml:id="authors preface">
+
+  <p>LET me confess it at once. I had not in me the stuff that goes to the making of a good constable; for I am so constituted that imagination outruns discretion, and it is my misfortune to have a most improper sympathy with wrong-doers. I therefore never "made cases," but turning, like Nelson, a blind eye to what it was my manifest duty to see, tried to make peace, which seemed to me better.</p>
+  <p>Moreover, I am, by temperament, unadaptive; by which I mean that it is not in me to conform cheerfully to uncongenial usages. We blacks are all somewhat impatient of discipline, and to the natural impatience of my race there was added, in my particular case, a peculiar sensitiveness which made certain forms of discipline irksome, and a fierce hatred of injustice. Not that I ever openly rebelled; but the rebellion was in my heart, and it was fomented by the inevitable rubs of daily life trifles to most of my comrades, but to me calamities and tragedies. To relieve my feelings, I wrote poems, and into them I poured my heart in its various moods. This volume consists of a selection from these poems.</p>
+  <p>The life was, as it happened, unsuited to me, and I to it; but I do not regret my experiences. If I had enemies whom I hated, I also had close friends whom I loved.</p>
+  <p>One word in conclusion. As constituted by the authorities the Force is admirable, and it only remains for the men themselves, and especially the sub-officers, to make it what it should be, a harmonious band of brothers.</p>
+<closer>
+  <signed><name>C. McK.</name></signed>
+</closer>
+</div>
+
+<body>
+
+<lg type="poem" xml:id="De Route March">
+
+<lg type="stanza">
+<l>In de fus' squad an' de front rank,</l>
+<l>'Side me dear Will on de right flank,</l>
+<l>From de drill-groun' at the old camp</l>
+<l>We went marchin' on a long tramp.</l>
+</lg>
+<lg type="stanza">
+<l>In de forefront was de gay band,</l>
+<l>An' de music it was ring grand ;</l>
+<l>O how jolly were we boys, oh,</l>
+<l>As we marched 'long t'rough St. Jago!</l>
+</lg>
+<lg type="stanza">
+<l>As we tramped on out de dull town,</l>
+<l>Keepin' time so to de drum's soun',  </l>
+<l>All de folkses as dey ran out,</l>
+<l>Started dancin' with a glad shout.</l>
+</lg>
+<lg type="stanza">
+<l>We went swingin' do'n de steep hill,</l>
+<l>Me so happy by my dear Will,</l>
+<l>Wid our carbines slung about we,</l>
+<l>An' our glad hearts like de air free.</l>
+</lg>
+<lg type="stanza">
+<l>We drank a draught from a pure brook</l>
+<l>Dat came windin' roun' a lee nook;</l>
+<l>Then homeward turned from de cool spring,</l>
+<l>Wid our good S. M. commanding.</l>
+</lg>
+<lg type="stanza">
+<l>To de music wid a good will</l>
+<l>We went tramp-trampin' up de hill,</l>
+<l>An' back to camp strode marchin' t'rough</l>
+<l>De sad ruins of St. Jago. </l>
+</lg>
+</lg>
+
+<lg type="poem" xml:id="Flat-Foot Drill">
+  <lg type="stanza">
+  <l>Fus' beginnin', flat-foot drill,</l>
+  <l>Larnin' how fe mek right tu'n:</l>
+  <l>"'Tention! keep you' ban's dem still,</l>
+  <l>Can't you tek in dat a li'l?</l>
+  <l>Hearin' all, but larnin' none.</l>
+</lg>
+  <lg type="stanza">
+  <l>"But seems unno all do'n-ca',</l>
+  <l>Won't mek up you' min' fe larn;</l>
+  <l>Drill-instructor boun' fe swea',</l>
+  <l>Dealin' wid you' class all day,</l>
+  <l>Neber see such from A barn.</l>
+</lg>
+  <lg type="stanza">
+  <l>"Eight tu'n, you damn' bungo brut'!</l>
+  <l>Do it so, you mountain man;</l>
+  <l>Car' behin' de bluff lef’ foot,</l>
+  <l>Seems i' frighten fe de boot!</l>
+  <l>Why you won't keep do'n you' han'?</l>
+</lg>
+    <lg type="stanza">
+  <l>"Shet you' mout'! A wan' no chat!</l>
+  <l>Fabour say you pick up nong,  </l>
+  <l>Sence you nyamin' Depot fat</l>
+  <l>An' 'top sleep 'pon so-so mat,</l>
+  <l>But A mean fe pull you' tongue. </l>
+</lg>
+  <lg type="stanza">
+  <l>"Wonder when unno wi' fit</l>
+  <l>Fe move up in-a fus' squad,</l>
+  <l>Use carbine an' bayonet!</l>
+  <l>Wait dough, -- unno wi' larn yet, --</l>
+  <l>Me wi' drill you ti' you mad." </l>
+</lg>
+</lg>
+
+<lg type="poem" xml:id="Bennie's Departure">
+
+<lg type="stanza">
+<l>All dat week was cold an' dreary,</l>
+<l>An' I worked wid heavy heart;</l>
+<l>All my limbs were weak an' weary,</l>
+<l>When I knew that we would part;</l>
+<l>An' I thought of our first meeting</l>
+<l>On dat pleasant day o' June,</l>
+<l>Of his kind an' modest greeting</l>
+<l>When we met dat afternoon;</l>
+</lg>
+<lg type="stanza">
+
+<l>Of de caprice o' de weader,</l>
+<l>How de harsh rain fell dat day,</l>
+<l>How we kissed de book togeder,</l>
+<l>An' our hearts were light an' gay;</l>
+<l>How we started homewards drivin',</l>
+<l>Last civilian drive in train;</l>
+<l>How we half-feared de arrivin',</l>
+<l>Knowin' we were not free again;</l>
+</lg>
+<lg type="stanza">
+
+<l>How we feared do'n to de layin'</l>
+<l>By of our loved old-time dress,</l>
+<l>An' to each udder kept sayin'</l>
+</lg>
+<lg type="stanza">
+
+<l>All might be unhappiness;</l>
+<l>How our lives be'n full o' gladness,</l>
+<l>Drillin' wid hearts light an' free;</l>
+<l>How for days all would be sadness</l>
+<l>When we quarrelled foolishly.</l>
+</lg>
+<lg type="stanza">
+
+<l>An' de sad, glad recollection</l>
+<l>Brought a strange thrill to my soul,</l>
+<l>'Memberin' how his affection</l>
+<l>Gave joy in a barren wul':</l>
+<l>As I thought then, my mind goin'</l>
+<l>Back to mem'ries, oh! so dear,</l>
+<l>As I felt de burden growin',</l>
+<l>Jes' so shall I write it here.</l>
+</lg>
+<lg type="stanza">
+
+<l>We were once more on de drill-ground,</l>
+<l>Me so happy by his side,</l>
+<l>One in passion, one in will, bound</l>
+<l>By a boundless love an' wide:</l>
+<l>Daily you would see us drinkin'</l>
+<l>Our tea by de mess-room door,</l>
+<l>Us togeder more an' more.  </l>
+  <l>Every passin' moment linkin'</l>
+</lg>
+<lg type="stanza">
+
+<l>After little lazy leanin',</l>
+<l>Sittin' on de window-sill,</l>
+<l>Me would start our carbine-cleanin'</l>
+<l>For de eight o'clock big drill:</l>
+<l>To' me he be'n always ready,</l>
+<l>An' as smart as smart could be;</l>
+<l>He was always quick, yet steady,</l>
+<l>Not of wav'rin' min' like me.</l>
+</lg>
+<lg type="stanza">
+
+<l>When de time was awful dull in</l>
+<l>De ole borin' Depot-school,</l>
+<l>An' me face was changed an' sullen,</l>
+<l>An' I kicked against de rule,</l>
+<l>He would speak to me so sweetly,</l>
+<l>Tellin' me to bear my fate,</l>
+<l>Helped me to forget de hate.</l>
+<l>An' his lovin' words completely</l>
+</lg>
+<lg type="stanza">
+
+<l>An' my heart would start a-pinin'</l>
+<l>Ef, when one o'clock came roun',</l>
+<l>He was not beside me dinin',</l>
+<l>But be'n at some duty boun':</l>
+<l>Not a t'ing could sweet me eatin',</l>
+<l>Wid my Bennie 'way from me;</l>
+<l>Strangely would my heart be beatin'</l>
+<l>Tell I knew dat he was free.</l>
+</lg>
+<lg type="stanza">
+
+<l>When at last he came to table,</l>
+<l>Neider one could ever bate</l>
+<l>Tell in some way we were able</l>
+<l>To eke out each udder plate:</l>
+<l>All me t'oughts were of my frennie</l>
+<l>Then an' in de after days;</l>
+<l>Ne'er can I forget my Bennie</l>
+<l>Wid him nice an' pleasant ways.</l>
+</lg>
+<lg type="stanza">
+
+<l>An' de sweet sound of his voice,</l>
+<l>In de evenin' we went walkin',</l>
+<l>As we laughed or kept a-talkin',</l>
+<l>Made my lovin' heart rejoice:</l>
+<l>Full of happiness we strolled on,</l>
+<l>In de closin' evenin' light,</l>
+<l>Gurglin', murm'rin' in de night;</l>
+<l>Where de stately Cobre rolled on </l>
+</lg>
+<lg type="stanza">
+
+<l>Where de rushin' canal waters</l>
+<l>Splashed t'rough fields of manchinic,</l>
+<l>Wid deir younger tender daughters</l>
+<l>Grow'n' togeder, lush an' t'ick,</l>
+<l>Bound' de mudder tall an' slimber</l>
+<l>Wid her scalloped leaves o' blue,</l>
+<l>In de evenin' light a-limber,</l>
+<l>Or a-tossin' to an' fro.</l>
+</lg>
+<lg type="stanza">
+
+<l>Back to barracks slowly strollin', </l>
+<l>Leavin' de enticin' soun'</l>
+<l>O' de Cobre proudly rollin'</l>
+<l>T'rough de old deserted town;</l>
+<l>Pas' de level well-kept meadows</l>
+<l>O' de spacious prison-land,</l>
+<l>Where de twilight's fallin' shadows</l>
+<l>Scattered at de moon's command.</l>
+</lg>
+<lg type="stanza">
+
+<l>So we passed 'long, half unwillin',</l>
+<l>T'rough de yawnin' barrack-gate,</l>
+<l>Our poo' hearts wid disdain nllin'</l>
+<l>O' de life we'd larnt to hate;</l>
+<l>Visions of a turgid ocean</l>
+<l>Of our comrades' noise an' woes,</l>
+<l>An' a ne’er-ceasin' commotion</l>
+<l>Sorrowfully 'fo' us rose.</l>
+</lg>
+<lg type="stanza">
+
+<l>We mixed in de tumult, waitin'</l>
+<l>Fe de moment o' release,</l>
+<l>De disorder never 'batin',</l>
+<l>Never 'batin' in de leas';</l>
+<l>Wid de anger in us growin',</l>
+<l>We grew vexed from black to blue,</l>
+<l>All de hot blood t'rough us flowin',</l>
+<l>As we hungered for tattoo. </l>
+</lg>
+</lg>
+
+</body>
+</text>
+</TEI>
